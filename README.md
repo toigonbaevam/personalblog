@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Django Blog project</h1>
+<h1 align="center">Welcome to Django-Blog 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -33,4 +33,6 @@ py manage.py test
 
 👤 Toigonbaeva Madina
 
--   Github: [@toigonbaevam](https://github.com/toigonbaevam)
+-   Github: [@](https://toigonbaevamithub.com/toigonbaevam)
+
+
