@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Django-Blog 👋</h1>
+<h1 align="center">Welcome to Django Blog project</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -31,12 +31,6 @@ py manage.py test
 
 ## Author
 
-👤 **Maciej Wiatr**
+👤 Toigonbaeva Madina
 
--   Website: wiatr.tech
--   Github: [@MaciejWiatr](https://github.com/MaciejWiatr)
--   LinkedIn: [@maciej-wiatr](https://linkedin.com/in/maciej-wiatr)
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+-   Github: [@toigonbaevam](https://github.com/toigonbaevam)
